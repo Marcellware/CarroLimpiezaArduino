@@ -1,6 +1,6 @@
 # CarroLimpiezaArduino
 
-Primer Proyecto Arduino realizado por: ---------------------------------------
+Primer Proyecto Arduino realizado por: --------------------------------------------------
 
 -Quimi Ramirez Ivan Marcelo
 
