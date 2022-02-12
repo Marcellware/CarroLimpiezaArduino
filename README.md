@@ -1,5 +1,13 @@
 # CarroLimpiezaArduino
 
+Primer Proyecto Arduino realizado por:
+-Quimi Ramirez Ivan Marcelo
+-Intriago Zambrano Leo Sebastian
+-Barcia Molina Jose Francisco
+-Cordova Vera Gonzalo Andres
+-Casanova Sabando Jose Antonio
+-Peñarrieta Cedeño Eduardo Giusseppe
+
 Los tres codigos como su titulo lo indican pueden:
 
 1- Permitir el movimiento Automatico del Carro usando los sensores de proximidad
